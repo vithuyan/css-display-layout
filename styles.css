@@ -1,0 +1,45 @@
+header {
+    font-size: 20px;
+    text-align: center;
+}
+
+header {
+    color: white;
+    background-color: black;
+}
+
+u {
+    text-decoration-color: yellow;
+}
+
+h1 {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer {
+    font-size: 15px;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    background-color: aqua;
+}
+
+a {
+    color: white;
+    background-color: grey;
+    margin: 5px;
+    font-size: 20px
+}
+.list a {color: blue; background-color: yellow;}
+.list2 a {color: blue; background-color: yellow;}
